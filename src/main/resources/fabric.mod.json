@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "thunder_notifier",
+  "version": "${version}",
+  "name": "Thunder Notifier",
+  "description": "Notifies you via Webhook when a thunderstorm starts. \n(No license / All Rights Reserved)",
+  "authors": [
+    "Jordi Burguera"
+  ],
+  "contributors": [],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/thunder-notifier",
+    "issues": "https://github.com/jordiburguera/thunder-notifier/issues"
+  },
+  "icon": "assets/thunder_notifier/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.thundernotifier.ThunderNotifierClient"
+    ],
+    "modmenu": [
+      "com.example.thundernotifier.ModMenuIntegration"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~26.1.1",
+    "java": ">=25",
+    "fabric-api": "*",
+    "cloth-config": "*",
+    "modmenu": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

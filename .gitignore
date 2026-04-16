@@ -1,0 +1,22 @@
+# Gradle stuff
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Log files
+*.log
+
+# IDE stuff
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Mac stuff
+.DS_Store
+
+# Mod-specific config/output (avoid local tests)
+run/
+out/
+bin/
