@@ -4,7 +4,7 @@ A Minecraft mod that uses **Discord Webhooks** to instantly notify you when a th
 
 ---
 
-## 📥 1. Download the Mod
+## 📥 1. Download the Mod (not aproved yet)
 Download the latest version of the mod from Modrinth:
 
 [![Download Mod](https://img.shields.io/badge/Download-Mod-green?style=for-the-badge&logo=modrinth)](https://modrinth.com/mod/thunderstorm-notifier)
