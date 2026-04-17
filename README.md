@@ -1,4 +1,3 @@
-```markdown
 # ⚡ Thunder Alerter
 
 A Minecraft mod that uses **Discord Webhooks** to instantly notify you when a thunderstorm begins. Perfect for AFK sessions while waiting for charged creepers or rare mob heads.
@@ -6,8 +5,9 @@ A Minecraft mod that uses **Discord Webhooks** to instantly notify you when a th
 ---
 
 ## 📥 1. Download the Mod
-Download the latest version of the mod from the link below:
-> **[DOWNLOAD LINK HERE]**
+Download the latest version of the mod from Modrinth:
+
+[![Download Mod](https://img.shields.io/badge/Download-Mod-green?style=for-the-badge&logo=modrinth)](https://modrinth.com/mod/thunderstorm-notifier)
 
 ---
 
@@ -47,4 +47,3 @@ Follow the steps for your operating system to install the mod and link your Disc
 
 ## ✅ You're All Set!
 Restart your game. From now on, whenever a thunderstorm starts, you will receive an instant notification on your Discord server.
-```
