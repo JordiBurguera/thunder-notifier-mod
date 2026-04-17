@@ -9,8 +9,8 @@
   ],
   "contributors": [],
   "contact": {
-    "homepage": "https://modrinth.com/mod/thunder-notifier",
-    "issues": "https://github.com/jordiburguera/thunder-notifier/issues"
+    "homepage": "https://modrinth.com/mod/thunderstorm-notifier",
+    "issues": "https://github.com/JordiBurguera/thunder-notifier-mod/issues"
   },
   "icon": "assets/thunder_notifier/icon.png",
   "environment": "client",
